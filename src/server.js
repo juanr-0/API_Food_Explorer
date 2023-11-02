@@ -14,7 +14,7 @@ app.use(express.json());
 app.use(cookieParser());
 
 // Configuração CORS para permitir solicitações da origem Netlify
-const allowedOrigins = ["https://quiet-zuccutto-0eff04.netlify.app"];
+const allowedOrigins = ["https://quiet-zuccutto-0eff04.netlify.app","http://localhost:5173"];
 
 app.use(
   cors({
