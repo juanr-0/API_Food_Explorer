@@ -1,5 +1,5 @@
  <<div align="center">
-  ![image](https://github.com/juanr-0/Food_Explorer_front/assets/110058876/3a171fc3-e6c4-4c4c-9d95-5352f53e0d25)
+  ![image](https://github.com/juanr-0/API_Food_Explorer/assets/110058876/05f733d5-793e-41a5-b535-ebb33473f2b7)
 </div>
 
 ## Sobre o Projeto
